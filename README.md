@@ -1,4 +1,4 @@
-# FayFetch
+# fayfetch
 
 A simple wrapper for Fetch ( https://www.npmjs.com/package/node-fetch )
 
@@ -26,9 +26,9 @@ If you like my works and want to support me/my works, feel free to support or do
 Take a look at this example
 
 ```
-const { FayFetch } = require('./FayFetchES5.js')
+const { FayFetch } = require('fayfetch')
 // or
-import {FayFetch} from "../Others/FayFetch";
+import {FayFetch} from 'fayfetch'
 
 var body = {
     "username": "p32929",
