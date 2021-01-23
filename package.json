@@ -1,12 +1,12 @@
 {
   "name": "fayfetch",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "FayFetchES5.js",
   "scripts": {
     "test": "node test.js"
   },
-  "keywords": [],
+  "keywords": ["node", "node-fetch", "fayfetch", "fetch","rest", "rest-api", "api", "client", "easy", "powerful"],
   "author": "",
   "license": "ISC",
   "dependencies": {
