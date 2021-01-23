@@ -6,7 +6,7 @@
   "scripts": {
     "test": "node test.js"
   },
-  "keywords": ["node", "node-fetch", "fayfetch", "fetch","rest", "rest-api", "api", "client", "easy", "powerful"],
+  "keywords": ["node", "node-fetch", "fayfetch", "fetch","rest", "rest-api", "api", "client", "easy", "powerful", "http"],
   "author": "",
   "license": "ISC",
   "dependencies": {
