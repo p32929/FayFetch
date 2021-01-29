@@ -28,17 +28,17 @@ const callback = (status, jsonData, ok) => {
 FayFetch.get(url, params, headers, callback);
 
 //
-FayFetch.post(url, params, headers, body, callback);
-
+// FayFetch.post(url, params, headers, body, callback);
 //
-FayFetch.put(url, params, headers, body, callback);
-
+// //
+// FayFetch.put(url, params, headers, body, callback);
 //
-FayFetch.deletee(url, params, headers, callback);
-
+// //
+// FayFetch.deletee(url, params, headers, callback);
 //
-FayFetch.upload(url, params, fileKeyString, fileObj, callback);
-
-// 
-FayFetch.uploadUsingFormData(url, params, formData, callback);
-
+// //
+// FayFetch.upload(url, params, fileKeyString, fileObj, callback);
+//
+// //
+// FayFetch.uploadUsingFormData(url, params, formData, callback);
+//

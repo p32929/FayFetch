@@ -1,13 +1,30 @@
 {
   "name": "fayfetch",
-  "version": "1.0.4",
+  "version": "1.0.10",
   "description": "",
   "homepage": "https://github.com/p32929/FayFetch",
-  "main": "FayFetchES5.js",
+  "main": "FayFetchEs5.js",
   "scripts": {
     "test": "node test.js"
   },
-  "keywords": ["node", "node-fetch", "fayfetch", "fetch","rest", "rest-api", "api", "client", "easy", "powerful", "http"],
+  "files": [
+    "FayFetchEs5.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "node",
+    "node-fetch",
+    "fayfetch",
+    "fetch",
+    "rest",
+    "rest-api",
+    "api",
+    "client",
+    "easy",
+    "powerful",
+    "http"
+  ],
   "author": "p32929",
   "license": "ISC",
   "dependencies": {
