@@ -1,4 +1,4 @@
-const { FayFetch } = require('./FayFetchES5.js')
+const { FayFetch } = require('./index.js')
 
 var body = {
     "username": "p32929",

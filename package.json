@@ -3,12 +3,12 @@
   "version": "1.0.12",
   "description": "",
   "homepage": "https://github.com/p32929/FayFetch",
-  "main": "FayFetchEs5.js",
+  "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
   "files": [
-    "FayFetchEs5.js",
+    "index.js",
     "README.md",
     "LICENSE"
   ],
