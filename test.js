@@ -16,6 +16,9 @@ var headers = {
 //
 const url = "https://api.npoint.io/4d142c7ac93099c77456"
 const callback = (status, jsonData, ok) => {
+    console.log(`STATUS: ${status}`);
+    console.log(`jsonData: ${jsonData}`);
+    console.log(`ok: ${ok}`);
     if (ok) {
         // Success
     }
