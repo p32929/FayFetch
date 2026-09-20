@@ -29,5 +29,9 @@
   "license": "ISC",
   "dependencies": {
     "node-fetch": "^2.6.1"
+  },
+  "funding": {
+    "type": "buymeacoffee",
+    "url": "https://www.buymeacoffee.com/p32929"
   }
 }
